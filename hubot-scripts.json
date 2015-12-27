@@ -1,13 +1,4 @@
 [
   "pomodoro.coffee",
-  "github-activity.coffee",
-  "github-commit-link.coffee",
-  "github-commiters.coffee",
-  "github-commits.coffee",
-  "github-issue-link.coffee",
-  "github-issues.coffee",
-  "github-merge.coffee",
-  "github-pulls.coffee",
-  "github-search.coffee",
-  "github-status.coffee"
+  "jenkins.coffee"
 ]
