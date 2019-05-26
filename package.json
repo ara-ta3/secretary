@@ -10,7 +10,7 @@
     "gitio2": "^3.0.0",
     "hubot": "^2.16.0",
     "hubot-cron": "^0.2.9",
-    "hubot-diagnostics": "0.0.1",
+    "hubot-diagnostics": "1.0.0",
     "hubot-help": "^1.0.1",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
